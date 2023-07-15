@@ -46,13 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/avalcd00/avalcd00/output/snake.svg" alt="Snake animation" />
-
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avalcd00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/avalcd00/count.svg?"  />
