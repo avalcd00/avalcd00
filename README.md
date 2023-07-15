@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/avalcd00)
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -43,14 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/avalcd00/avalcd00/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/avalcd00/count.svg?"  />
