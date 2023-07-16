@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
 <br />
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avalcd00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
