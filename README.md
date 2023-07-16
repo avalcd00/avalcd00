@@ -1,5 +1,7 @@
 ![Metrics](https://metrics.lecoq.io/avalcd00)
-###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRpcG5ra2V3Zmh5bmttbHQ0bDhkbDU3MGJlY2l1NjJnYjdsYjAyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/200.gif"  />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,17 +47,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
 </div>
-###
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRpcG5ra2V3Zmh5bmttbHQ0bDhkbDU3MGJlY2l1NjJnYjdsYjAyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/200.gif"  />
-</div>
 
-###
-###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avalcd00)](https://github.com/ashutosh00710/github-readme-activity-graph)
-###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/avalcd00/count.svg?"  />
 </div>
 
-###
+
