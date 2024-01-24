@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/avalcd00)
+![Metrics](https://metrics.lecoq.io/avalcd00](https://metrics.lecoq.io/insights/avalcd00)
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRpcG5ra2V3Zmh5bmttbHQ0bDhkbDU3MGJlY2l1NjJnYjdsYjAyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/200.gif"  />
 
